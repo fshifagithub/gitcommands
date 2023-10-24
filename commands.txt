@@ -1,0 +1,20 @@
+1)command for initializing git in current working dictionary
+    >git init
+
+2)command for listing all untracked files
+   >git status
+
+3)command for clonning a remote repository
+   >git clone remote path
+
+4)command for adding all untracked files to staging area
+    >git add -a
+
+
+5)command for adding all staged files to local repository
+    >git commit -m "your message"
+
+6)command for pushing files from local repository to remote repository
+    >git push origin branch_name
+
+7
